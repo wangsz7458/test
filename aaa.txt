@@ -2,3 +2,5 @@ Git is good free software.
 Git is distributed control system.
 Git has a mytable index called stage.
 Git is good good.
+Git is six six six
+
